@@ -14,3 +14,9 @@ After moving the ffmpeg folder into your C: drive, open Command Prompt with admi
 
 After you get a success message, type in "ffmpeg" to the command prompt. If you get an error, you need to restart your computer, once finished restarting, run ffmpeg inside of the command prompt window once more, and if you do not get an error you're all set.
 
+# WackyWebM
+
+Once you've downloaded the WackyWebM folder by going to the GitHub repository and selecting the green "Code button" then clicking "Download ZIP"
+
+Once the ZIP is fully installed, you need to extract the folder inside. After doing this, you are set. 
+
