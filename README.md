@@ -2,7 +2,7 @@ To begin installation, you must install NodeJS first. You can find the NodeJS do
 
 After that, if prompted to restart, it is recommended to do so.
 
-FFmpeg
+# FFmpeg
 
 After installing NodeJS, you need to download FFmpeg next. If you're on Windows 64 bit, you can use [this.](https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/ffmpeg-master-latest-win64-gpl-shared.zip) If you're on Mac, install FFmpeg from Brew. If none of these fit you, you can search for your own FFmpeg version [here.](https://github.com/BtbN/FFmpeg-Builds/releases)
 
