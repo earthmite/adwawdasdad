@@ -15,6 +15,10 @@ After you get a success message, type in "ffmpeg" to the command prompt. If you 
 
 # WackyWebM
 
-Once you've downloaded the WackyWebM folder by going to the GitHub repository and selecting the green "Code button" then clicking "Download ZIP"
+Once you've downloaded the WackyWebM folder by going to the GitHub repository and selecting the green "Code" button, then clicking "Download ZIP"
 
-Once the ZIP is fully installed, you need to extract the folder inside. After doing this, you are set. ****
+Once the ZIP is fully installed, you need to extract the folder inside. After doing this, you are set. 
+
+# Support
+
+If you encounter bugs, issues, or have recommendations, feel free to join the Discord [here.](https://discord.gg/TmyJfq49AP)
